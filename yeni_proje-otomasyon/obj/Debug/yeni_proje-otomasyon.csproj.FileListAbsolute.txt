@@ -1,0 +1,77 @@
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.exe.config
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.exe
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.pdb
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csprojAssemblyReference.cache
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Properties.Resources.resources
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.exe
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.pdb
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Login.resources
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Form1.resources
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.UrunEkle.resources
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.UyeKaydi.resources
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.SifreDegistir.resources
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.CopyComplete
+C:\Users\semih\Desktop\yei proje\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Satıs.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.exe.config
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.exe
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.pdb
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\semih\Desktop\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csprojAssemblyReference.cache
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Form1.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Login.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Properties.Resources.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Satıs.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.SifreDegistir.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.UyeKaydi.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.CopyComplete
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.exe
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.pdb
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Market.resources
+C:\Users\semih\Desktop\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.ResolveComReference.cache
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.exe.config
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.exe
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\yeni_proje-otomasyon.pdb
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\EntityFramework.dll
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.dll
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\EntityFramework.xml
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.xml
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csprojAssemblyReference.cache
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.ResolveComReference.cache
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Form1.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Login.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Properties.Resources.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Satıs.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.SifreDegistir.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.Market.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje_otomasyon.UyeKaydi.resources
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.GenerateResource.cache
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.csproj.CopyComplete
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.exe
+C:\Users\semih\Desktop\SEMİH DESKTOP\yeni_proje-otomasyon\obj\Debug\yeni_proje-otomasyon.pdb
